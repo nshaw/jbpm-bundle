@@ -1,0 +1,8 @@
+code: nshaw-jpbm
+description: Embedded jBPM bundle
+
+components:
+  plugins:
+    - plugins/nshaw-jbpm-descriptor.yaml
+
+
