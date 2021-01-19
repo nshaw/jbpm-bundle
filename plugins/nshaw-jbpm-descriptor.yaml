@@ -2,4 +2,4 @@ image: jboss/jbpm-server-full:latest
 dbms: none
 #healthCheckPath: "/management/health"
 roles:
-#  - "conference-admin"
+  - "jbpm-admin"
